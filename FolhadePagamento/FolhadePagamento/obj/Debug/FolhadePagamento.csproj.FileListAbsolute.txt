@@ -1,0 +1,9 @@
+C:\Users\gibea\Documents\2° Módulo Etec\ETEC - D.S - AQUILES\FolhadePagamento\FolhadePagamento\bin\Debug\FolhadePagamento.exe.config
+C:\Users\gibea\Documents\2° Módulo Etec\ETEC - D.S - AQUILES\FolhadePagamento\FolhadePagamento\bin\Debug\FolhadePagamento.exe
+C:\Users\gibea\Documents\2° Módulo Etec\ETEC - D.S - AQUILES\FolhadePagamento\FolhadePagamento\bin\Debug\FolhadePagamento.pdb
+C:\Users\gibea\Documents\2° Módulo Etec\ETEC - D.S - AQUILES\FolhadePagamento\FolhadePagamento\obj\Debug\FolhadePagamento.csprojResolveAssemblyReference.cache
+C:\Users\gibea\Documents\2° Módulo Etec\ETEC - D.S - AQUILES\FolhadePagamento\FolhadePagamento\obj\Debug\FolhadePagamento.exe
+C:\Users\gibea\Documents\2° Módulo Etec\ETEC - D.S - AQUILES\FolhadePagamento\FolhadePagamento\obj\Debug\FolhadePagamento.pdb
+C:\Users\aluno\Documents\FolhadePagamento\FolhadePagamento\bin\Debug\FolhadePagamento.exe.config
+C:\Users\aluno\Documents\FolhadePagamento\FolhadePagamento\obj\Debug\FolhadePagamento.exe
+C:\Users\aluno\Documents\FolhadePagamento\FolhadePagamento\obj\Debug\FolhadePagamento.pdb
